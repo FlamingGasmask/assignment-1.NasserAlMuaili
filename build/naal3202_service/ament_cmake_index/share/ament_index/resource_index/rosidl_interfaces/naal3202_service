@@ -1,0 +1,4 @@
+srv/Naal3202Service.idl
+srv/Naal3202Service.srv
+srv/Naal3202Service_Request.msg
+srv/Naal3202Service_Response.msg

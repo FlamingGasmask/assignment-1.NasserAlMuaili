@@ -1,0 +1,25 @@
+[0.740s] Invoking command in '/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2': LD_LIBRARY_PATH=/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_service/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/build --no-deps symlink_data
+[1.004s] running develop
+[1.160s] running egg_info
+[1.161s] creating naal3202_hw2.egg-info
+[1.161s] writing naal3202_hw2.egg-info/PKG-INFO
+[1.162s] writing dependency_links to naal3202_hw2.egg-info/dependency_links.txt
+[1.162s] writing entry points to naal3202_hw2.egg-info/entry_points.txt
+[1.162s] writing requirements to naal3202_hw2.egg-info/requires.txt
+[1.162s] writing top-level names to naal3202_hw2.egg-info/top_level.txt
+[1.164s] writing manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+[1.164s] reading manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+[1.165s] writing manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+[1.167s] running build_ext
+[1.167s] Creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202-hw2.egg-link (link to .)
+[1.168s] Installing services_client script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+[1.168s] Installing services_server script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+[1.168s] 
+[1.168s] Installed /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2
+[1.169s] running symlink_data
+[1.169s] creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index
+[1.169s] creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index
+[1.169s] creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index/packages
+[1.169s] symbolically linking /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/resource/naal3202_hw2 -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index/packages
+[1.170s] symbolically linking /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/package.xml -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/naal3202_hw2
+[1.214s] Invoked command in '/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2' returned '0': LD_LIBRARY_PATH=/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_service/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/build --no-deps symlink_data

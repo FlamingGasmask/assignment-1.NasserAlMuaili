@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/naal3202_hw2/naal3202_hw2.egg-info/PKG-INFO
+writing dependency_links to ../../build/naal3202_hw2/naal3202_hw2.egg-info/dependency_links.txt
+writing entry points to ../../build/naal3202_hw2/naal3202_hw2.egg-info/entry_points.txt
+writing requirements to ../../build/naal3202_hw2/naal3202_hw2.egg-info/requires.txt
+writing top-level names to ../../build/naal3202_hw2/naal3202_hw2.egg-info/top_level.txt
+reading manifest file '../../build/naal3202_hw2/naal3202_hw2.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/naal3202_hw2/naal3202_hw2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying naal3202_hw2/services_client.py -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/build/lib/naal3202_hw2
+running install
+running install_lib
+copying /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/build/lib/naal3202_hw2/services_client.py -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202_hw2
+byte-compiling /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202_hw2/services_client.py to services_client.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202_hw2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/naal3202_hw2/naal3202_hw2.egg-info to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202_hw2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing services_client script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+Installing services_server script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+writing list of installed files to '/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/install.log'

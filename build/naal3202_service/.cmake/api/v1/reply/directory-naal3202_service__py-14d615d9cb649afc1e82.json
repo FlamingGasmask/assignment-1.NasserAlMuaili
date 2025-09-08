@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "naal3202_service__py",
+		"source" : "/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_service/naal3202_service__py"
+	}
+}

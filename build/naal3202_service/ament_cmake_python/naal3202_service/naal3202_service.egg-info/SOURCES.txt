@@ -1,0 +1,8 @@
+setup.py
+naal3202_service/__init__.py
+naal3202_service.egg-info/PKG-INFO
+naal3202_service.egg-info/SOURCES.txt
+naal3202_service.egg-info/dependency_links.txt
+naal3202_service.egg-info/top_level.txt
+naal3202_service/srv/__init__.py
+naal3202_service/srv/_naal3202_service.py

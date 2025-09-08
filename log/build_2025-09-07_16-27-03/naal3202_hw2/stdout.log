@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating naal3202_hw2.egg-info
+writing naal3202_hw2.egg-info/PKG-INFO
+writing dependency_links to naal3202_hw2.egg-info/dependency_links.txt
+writing entry points to naal3202_hw2.egg-info/entry_points.txt
+writing requirements to naal3202_hw2.egg-info/requires.txt
+writing top-level names to naal3202_hw2.egg-info/top_level.txt
+writing manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+reading manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+writing manifest file 'naal3202_hw2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/python3.10/site-packages/naal3202-hw2.egg-link (link to .)
+Installing services_client script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+Installing services_server script to /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/lib/naal3202_hw2
+
+Installed /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2
+running symlink_data
+creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index
+creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index
+creating /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index/packages
+symbolically linking /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/resource/naal3202_hw2 -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/ament_index/resource_index/packages
+symbolically linking /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_hw2/package.xml -> /home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/install/naal3202_hw2/share/naal3202_hw2
