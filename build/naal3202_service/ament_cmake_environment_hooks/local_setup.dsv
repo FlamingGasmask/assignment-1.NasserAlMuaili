@@ -1,0 +1,4 @@
+source;share/naal3202_service/environment/ament_prefix_path.sh
+source;share/naal3202_service/environment/library_path.sh
+source;share/naal3202_service/environment/path.sh
+source;share/naal3202_service/environment/pythonpath.sh

@@ -1,0 +1,4 @@
+[console_scripts]
+services_client = naal3202_hw2.services_client:main
+services_server = naal3202_hw2.services_server:main
+

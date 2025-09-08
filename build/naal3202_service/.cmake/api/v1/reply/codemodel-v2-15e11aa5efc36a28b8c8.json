@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b7493819a8f147296ba3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "naal3202_service__py",
+					"jsonFile" : "directory-naal3202_service__py-14d615d9cb649afc1e82.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_service/naal3202_service__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "naal3202_service",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_naal3202_service_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_naal3202_service_egg-84748d2b8c559cc9c253.json",
+					"name" : "ament_cmake_python_build_naal3202_service_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_naal3202_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_naal3202_service-b56bac18f5d2aac07b22.json",
+					"name" : "ament_cmake_python_copy_naal3202_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service-0c505d89ed1daaba5fce.json",
+					"name" : "naal3202_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__cpp-7c95e4bead7499034836.json",
+					"name" : "naal3202_service__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "naal3202_service__py::@224740c6afd23731cab8",
+					"jsonFile" : "target-naal3202_service__py-303a9ecaed8190307339.json",
+					"name" : "naal3202_service__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_generator_c-ce259883c733092463f0.json",
+					"name" : "naal3202_service__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_generator_py-e350052ad67464208ee8.json",
+					"name" : "naal3202_service__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_c-21b9a228087d9f27462a.json",
+					"name" : "naal3202_service__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_c__pyext-5ce4bcbdcfb0595de4ce.json",
+					"name" : "naal3202_service__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_cpp-c5b4995092a17121a4fc.json",
+					"name" : "naal3202_service__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_fastrtps_c-b2c353b4b75d35572146.json",
+					"name" : "naal3202_service__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_fastrtps_c__pyext-c6392c78a42c46f6d561.json",
+					"name" : "naal3202_service__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_fastrtps_cpp-abc533a4317292f94d5f.json",
+					"name" : "naal3202_service__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_introspection_c-3ac15111e4b8c8c091bd.json",
+					"name" : "naal3202_service__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_introspection_c__pyext-133c8fd2d075a5d81ebf.json",
+					"name" : "naal3202_service__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service__rosidl_typesupport_introspection_cpp-8319a9a4d6beed00ffbc.json",
+					"name" : "naal3202_service__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "naal3202_service_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-naal3202_service_uninstall-163880b3bbd4525909b5.json",
+					"name" : "naal3202_service_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-524acf5a95e28a01c5c5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/build/naal3202_service",
+		"source" : "/home/nasser/ros2_assign1_sw/assignment-1.NasserAlMuaili/src/naal3202_service"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

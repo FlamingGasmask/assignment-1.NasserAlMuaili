@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from naal3202_service/srv/Naal3202Service.srv
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/String.idl"
+
+module naal3202_service {
+  module srv {
+    struct Naal3202Service_Request {
+      std_msgs::msg::String text;
+    };
+    struct Naal3202Service_Response {
+      string reverse;
+
+      double time;
+    };
+  };
+};
